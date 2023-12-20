@@ -12,13 +12,17 @@ function Footer() {
       <Row>
         <Col md={12} sm={12}>
           <h1>
-            wy
+            
           </h1>
-        <img src={ff1} alt="Map" className='map-image' />
+        <img src={ff1} alt="Map" className='' />
         </Col>
       </Row>
     </Container>
+    <h1>
+      Copyright 2023 web3maker.com 
+    </h1>
 <Navebar/>
+
     </>
   );
 }
