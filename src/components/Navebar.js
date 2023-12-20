@@ -4,6 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Image from '../assets/Images/logo 1.png'
 import Button from 'react-bootstrap/Button';
+import ff1 from "../assets/Images/footerl.png";
 
 const gradientBackground = {
     background: 'rgba(17, 9, 21, 1)' // Replace with your desired color stops
@@ -13,7 +14,7 @@ const Navebar = () => {
         <>
         <Navbar data-bs-theme="dark" style={gradientBackground}>
           <Container>
-          <img src={Image} alt="logo" />
+          <img src={ff1} alt="logo" />
 
             <Nav className="ms-auto">
               <Nav.Link href="#home">Web3Maker</Nav.Link>

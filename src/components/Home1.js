@@ -4,21 +4,15 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 import Home2 from "../assets/Images/home2.png";
-import logo1 from "../assets/Images/home2l1.png";
-import logo2 from "../assets/Images/home2l2.png";
-import logo3 from "../assets/Images/home2l3.png";
-import logo4 from "../assets/Images/home2l4.png";
-import logo5 from "../assets/Images/home2l5.png";
-import logo6 from "../assets/Images/home2l6.png";
 import Ss2 from "../assets/Images/Ss2.png";
 
 function Home1() {
   return (
     <>
-      <h1 className="home2_h">Minimum living cost takes care of everything</h1>
+     
       <Container fluid className="Hero2">
         <Row>
-          <Col md={6} sm={12}>
+          <Col md={6} sm={12} className="home11">
             <h1>Create your own Web3 Masterpiece</h1>
             <p>
               Most entrepreneurs want to create their own web3 sites,

@@ -19,9 +19,9 @@ const Home = () => {
   return (
     <Container fluid>
       <Row>
-      <Col md={6} sm={12}>
+      <Col md={12} sm={12}>
           {/* Content for the second column */}
-          <img src={Hero} alt="Map" className='map-image' />
+          <img src={Hero} alt="Map" className='heroimg' />
 
       </Col>
       </Row>

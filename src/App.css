@@ -160,10 +160,31 @@ body {
 .herotext{
 
   padding-top: 50px;
-  margin-bottom: 80px;
+
   color: white;
+  
 }
 .logo_img{
   width: 100%;
   height: 100vh;
+}
+.herotext{
+
+}
+.heroimg{
+  width: 100%;
+  height: 100vh;
+}
+.home11{
+  font-size: 30px;
+  padding-top: 30px;
+}
+.sec22{
+  font-size: 30px;
+  padding-top: 20px;
+  margin-top: 30px;
+}
+.Ss3-image{
+  height: 100vh;
+  width: 100%;
 }

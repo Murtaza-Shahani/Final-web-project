@@ -14,10 +14,10 @@ function Section2() {
         <Row>
           <Col md={6} sm={12}>
             {/* Content for the first column */}
-            <img src={Ss3} alt="Home2" className="home2-image" />
+            <img src={Ss3} alt="Home2" className="Ss3-image" />
           </Col>
           
-          <Col md={6} sm={12}>
+          <Col md={6} sm={12}className="sec22">
             <h1>
               Can be changed to customizable ready made web3 dapps templates.
             </h1>
