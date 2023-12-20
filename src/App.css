@@ -145,3 +145,25 @@ body {
 .u_image{
   float: right;
 }
+.footer{
+  
+  background: linear-gradient(to bottom, #6A5ACD, #9370DB);
+  margin: 30px
+;
+}
+.Hero2{
+  background-color: rgba(229, 229, 229, 1);
+}
+.herosec{
+ background-color:  rgba(82, 78, 85, 1);
+}
+.herotext{
+
+  padding-top: 50px;
+  margin-bottom: 80px;
+  color: white;
+}
+.logo_img{
+  width: 100%;
+  height: 100vh;
+}
